@@ -1,27 +1,16 @@
 ---
 layout: archive
 title: "教育背景"
-permalink: /publications/
+permalink: /background/
 author_profile: true
+redirect_from:
+  - /background
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">教育背景.</div>
-{% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
-
-# 教育背景
-暨南大学，信息科学技术学院/网络空间安全学院，网络空间安全，学术型硕士 (2022.09-至今) 
--	导师：甘文生副教授（研究方向：数据挖掘与大数据，模式挖掘）
--	主要课程：算法设计与分析(95/100），安全协议与分析(96/100)，机器学习(92/100)，信息隐藏(89/100)，博弈论(91/100)，学术论文与写作(92/100) GPA:87.4/100
-
-暨南大学，物理与光电学院（理工学院），光电工程系，信息工程，学士（2018.09-2022.06）
--	导师：朱文国教授（研究方向：物理光学，光子自旋霍尔效应）
--	主要课程：数据结构与算法设计(93/100），计算机网络(95/100)，数字电子线路(97/100)，数字信号处理(93/100)，嵌入式系统(90/100) GPA:87.5/100
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
