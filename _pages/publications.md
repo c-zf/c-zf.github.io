@@ -24,3 +24,8 @@ redirect_from:
 本科阶段：
 ====
 [1] Zefeng Chen, Hongwei Yang, Yihong Xiao, Jintao Pan, Yu Xia, Wenguo Zhu. Photonic spin Hall effect in twisted bilayer graphene[J]. Journal of the Optical Society of America A, 2021, 38(8): 1232-1236. (SCI, JCR Q3)
+
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">您可移步至<a href="{{site.author.googlescholar}}">我的谷歌学术主页</a>.</div>
+{% endif %}
