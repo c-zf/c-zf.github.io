@@ -3,8 +3,8 @@ main:
   - title: "教育背景"
     url: /background/
 
-  #- title: "Publications"
-    #url: /publications/
+  - title: "Publications"
+    url: /publications/
     
   #- title: "Talks"
     #url: /talks/    
