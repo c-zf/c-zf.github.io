@@ -3,6 +3,9 @@ main:
   - title: "教育背景"
     url: /background/
 
+  - title: "技能"
+    url: /skills/
+
   - title: "主要论文"
     url: /publications/
     
