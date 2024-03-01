@@ -27,5 +27,5 @@ redirect_from:
 
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">您可移步至<a href="{{site.author.googlescholar}}">我的谷歌学术主页</a>.</div>
+  <div class="wordwrap">如需查阅完整论文列表，您可移步至<a href="{{site.author.googlescholar}}">我的谷歌学术主页</a>.</div>
 {% endif %}
