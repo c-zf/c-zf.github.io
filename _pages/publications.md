@@ -19,7 +19,7 @@ redirect_from:
 
 [4] Zefeng Chen, Wensheng Gan, Gengsen Huang, Zhenlian Qi, Yan Li, Philip S. Yu. TALENT: Targeted mining of non-overlapping sequential patterns[J]. ACM Transactions on Management Information Systems. ACM, 2023: 1-28. (Major revision, SCI, ACM Trans)
 
-[5] Zefeng Chen, Wensheng Gan, Jiayang Wu, Kaixia Hu, Hong Lin. Data scarcity in recommendation systems: A survey. ACM Transitions on Recommender Systems. ACM, 2023: 1-32. (Minor revision, ACM Trans)
+[5] Zefeng Chen, Wensheng Gan, Jiayang Wu, Kaixia Hu, Hong Lin. Data scarcity in recommendation systems: A survey. ACM Transitions on Recommender Systems. ACM, 2023: 1-32. (Accepted, ACM Trans)
 
 本科阶段：
 ====
