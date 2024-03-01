@@ -1,3 +1,22 @@
+---
+layout: archive
+title: "教育背景"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">教育背景.</div>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
 # 教育背景
 暨南大学，信息科学技术学院/网络空间安全学院，网络空间安全，学术型硕士 (2022.09-至今) 
 -	导师：甘文生副教授（研究方向：数据挖掘与大数据，模式挖掘）
