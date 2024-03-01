@@ -213,6 +213,9 @@ collections:
   background:
     output: true
     permalink: /:collection/:path/
+  skills:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
