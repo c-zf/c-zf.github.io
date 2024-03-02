@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <font size=10>研究生阶段：</font>
+
 [[1]](https://doi.org/10.1109/BigData55660.2022.10021112) **Zefeng Chen**, Jiayang Wu, Wensheng Gan*, Zhenlian Qi. Metaverse security and privacy: An overview[C]. IEEE International Conference on Big Data. IEEE, 2022: 2950-2959. (CCF-C)
 
 [[2]](https://doi.org/10.1145/3543873.3587593) Riyan Yang, Lin Li, Wensheng Gan*, **Zefeng Chen**, Zhenlian Qi. The human-centric Metaverse: A survey[C]. Companion Proceedings of the Web Conference. ACM, 1296–1306.
