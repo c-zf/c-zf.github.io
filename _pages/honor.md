@@ -29,3 +29,5 @@ redirect_from:
     - 2019年大学生创新创业训练计划平台国家级立项参与者（已结项）
     - 2020年大学生创新创业训练计划平台校级立项负责人（已结项）
     - 2021年“挑战杯”学术创新创业竞赛学院级特等奖，校级特等奖，省二等奖
+- **其他：**
+    - 曾登上[暨南大学公众号](https://mp.weixin.qq.com/s/H4CcLUy-ezbmdSgr1EhCbg)、[腾讯网](https://view.inews.qq.com/k/20220330A06KB700?no-redirect=1&web_channel=wap&openApp=false)、[南方都市报](https://v.oeeee.com/video/NVanYiPlYJXN)、[中国青年网](http://m.cyol.com/gb/articles/2022-03/29/content_gXvGAslqV.html)。
