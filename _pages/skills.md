@@ -4,7 +4,7 @@ title: "技能"
 permalink: /skills/
 author_profile: true
 redirect_from:
-  - /skills
+  - /skill
 ---
 
 {% include base_path %}
