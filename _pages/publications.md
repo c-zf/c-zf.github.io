@@ -27,9 +27,9 @@ redirect_from:
 
 本科阶段：
 ====
-[[1]](https://doi.org/10.1364/OE.425777) Hongwei Yang, Yihong Xiao, Kaimin Zhang, **Zefeng Chen**, Jintao Pan, Linqing Zhuo, Yongchun Zhong, Huadan Zheng, Wenguo Zhu, Jianhui Yu, Zhe Chen. Self-powered and high-performance all-fiber integrated photodetector based on graphene/palladium diselenide heterostructures[J]. Optics Express, 2021, 29(10), 15631-15640.
+[[1]](https://doi.org/10.1364/OE.425777) Hongwei Yang, Yihong Xiao, Kaimin Zhang, **Zefeng Chen**, Jintao Pan, Linqing Zhuo, Yongchun Zhong, Huadan Zheng, Wenguo Zhu, Jianhui Yu, Zhe Chen. Self-powered and high-performance all-fiber integrated photodetector based on graphene/palladium diselenide heterostructures[J]. Optica, Optics Express. 2021, 29(10), 15631-15640.
 
-[[2]](https://doi.org/10.1364/JOSAA.430598) **Zefeng Chen**, Hongwei Yang, Yihong Xiao, Jintao Pan, Yu Xia, Wenguo Zhu. Photonic spin Hall effect in twisted bilayer graphene[J]. Journal of the Optical Society of America A, 2021, 38(8): 1232-1236. (SCI, JCR Q3)
+[[2]](https://doi.org/10.1364/JOSAA.430598) **Zefeng Chen**, Hongwei Yang, Yihong Xiao, Jintao Pan, Yu Xia, Wenguo Zhu. Photonic spin Hall effect in twisted bilayer graphene[J]. Journal of the Optical Society of America A. Optica, 2021, 38(8): 1232-1236. (SCI, JCR Q3)
 
 
 {% if site.author.googlescholar %}
