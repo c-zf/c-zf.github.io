@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 - 研究生阶段：
+
 [[1]](https://doi.org/10.1109/BigData55660.2022.10021112) **Zefeng Chen**, Jiayang Wu, Wensheng Gan*, Zhenlian Qi. Metaverse security and privacy: An overview[C]. IEEE International Conference on Big Data. IEEE, 2022: 2950-2959. (CCF-C)
 
 [[2]](https://doi.org/10.1145/3543873.3587593) Riyan Yang, Lin Li, Wensheng Gan*, **Zefeng Chen**, Zhenlian Qi. The human-centric Metaverse: A survey[C]. Companion Proceedings of the Web Conference. ACM, 1296–1306.
@@ -25,6 +26,7 @@ redirect_from:
 [[7]](https://doi.org/10.1145/3639063) **Zefeng Chen**, Wensheng Gan*, Jiayang Wu, Kaixia Hu, Hong Lin. Data scarcity in recommendation systems: A survey. ACM Transitions on Recommender Systems. ACM, 2024: 1-32. (Accepted, ACM Trans)
 
 - 本科阶段：
+
 [[1]](https://doi.org/10.1364/OE.425777) Hongwei Yang, Yihong Xiao, Kaimin Zhang, **Zefeng Chen**, Jintao Pan, Linqing Zhuo, Yongchun Zhong, Huadan Zheng, Wenguo Zhu*, Jianhui Yu, Zhe Chen. Self-powered and high-performance all-fiber integrated photodetector based on graphene/palladium diselenide heterostructures[J]. Optica, Optics Express. 2021, 29(10), 15631-15640.
 
 [[2]](https://doi.org/10.1364/JOSAA.430598) **Zefeng Chen**, Hongwei Yang, Yihong Xiao, Jintao Pan, Yu Xia, Wenguo Zhu*. Photonic spin Hall effect in twisted bilayer graphene[J]. Journal of the Optical Society of America A. Optica, 2021, 38(8): 1232-1236. (SCI, JCR Q3)
