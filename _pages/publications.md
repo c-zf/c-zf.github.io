@@ -17,7 +17,7 @@ redirect_from:
 
 [[3]](https://doi.org/10.1109/DSAA60987.2023.10302526) **Zefeng Chen**, Wensheng Gan*, Gengsen Huang, Yanxin Zheng, Philip S. Yu. Towards contiguous sequences in uncertain data[C]. IEEE International Conference on Data Science and Advanced Analytics. IEEE, 2023: 1-10. (Accepted, CCF-C)
 
-[[4]](https://doi.org/10.1109/BigData59044.2023.10386743) Jiayang Wu, Wensheng Gan*, **Zefeng Chen**, Shicheng Wan, Philip S. Yu. Multimodal large language models: A survey[C]. IEEE International Conference on Big Data. IEEE, 2023, 2247-2256. (CCFC)
+[[4]](https://doi.org/10.1109/BigData59044.2023.10386743) Jiayang Wu, Wensheng Gan*, **Zefeng Chen**, Shicheng Wan, Philip S. Yu. Multimodal large language models: A survey[C]. IEEE International Conference on Big Data. IEEE, 2023, 2247-2256. (CCF-C)
 
 [[5]](https://doi.org/10.1016/j.knosys.2023.111314) **Zefeng Chen**, Wensheng Gan*, Gengsen Huang, Yanxin Zheng, Philip S. Yu. Towards utility-driven contiguous sequential patterns in uncertain multi-sequences[J]. Knowledge-Based Systems. Elsevier, 2024, 284(6): 111314.
 
