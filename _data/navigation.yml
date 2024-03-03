@@ -14,9 +14,6 @@ main:
 
   - title: "所获荣誉"
     url: /honor/
-
-  - title: "这是什么？"
-    url: /what/
     
   #- title: "Talks"
     #url: /talks/    
