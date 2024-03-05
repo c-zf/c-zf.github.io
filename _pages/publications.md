@@ -19,11 +19,7 @@ redirect_from:
 
 [[4]](https://doi.org/10.1109/BigData59044.2023.10386743) Jiayang Wu, Wensheng Gan*, **Zefeng Chen**, Shicheng Wan, Philip S. Yu. Multimodal large language models: A survey[C]. IEEE International Conference on Big Data. IEEE, 2023, 2247-2256. (CCF-C)
 
-[[5]](https://doi.org/10.1016/j.knosys.2023.111314)
-        
-        
-        
-         Zefeng Chen**, Wensheng Gan*, Gengsen Huang, Yanxin Zheng, Philip S. Yu. Towards utility-driven contiguous sequential patterns in uncertain multi-sequences[J]. Knowledge-Based Systems. Elsevier, 2024, 284(6): 111314. (CCF-C, IF:8.8, JCR Q1)
+[[5]](https://doi.org/10.1016/j.knosys.2023.111314) **Zefeng Chen**, Wensheng Gan*, Gengsen Huang, Yanxin Zheng, Philip S. Yu. Towards utility-driven contiguous sequential patterns in uncertain multi-sequences[J]. Knowledge-Based Systems. Elsevier, 2024, 284(6): 111314. (CCF-C, IF:8.8, JCR Q1)
 
 [[6]](https://doi.org/10.1016/j.iotcps.2023.12.002) **Zefeng Chen**, Wensheng Gan*, Jiayang Wu, Hong Lin, Chien-Ming Chen. Metaverse for smart cities: A survey[J]. Internet of Things and Cyber-Physical Systems. Elsevier, 2024: 203-216.
 
