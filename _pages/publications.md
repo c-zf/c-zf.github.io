@@ -23,7 +23,7 @@ redirect_from:
 
 [6] **Zefeng Chen**, Wensheng Gan*, Jiayang Wu, Hong Lin, Chien-Ming Chen. Metaverse for smart cities: A survey[J]. Internet of Things and Cyber-Physical Systems. Elsevier, 2024: 203-216. [[acticle's link]](https://doi.org/10.1016/j.iotcps.2023.12.002)
 
-[7] **Zefeng Chen**, Wensheng Gan*, Jiayang Wu, Kaixia Hu, Hong Lin. Data scarcity in recommendation systems: A survey. ACM Transitions on Recommender Systems. ACM, 2024: 1-32. (Just Accepted, ACM Trans) [[acticle's link]](https://doi.org/10.1145/3639063)
+[7] **Zefeng Chen**, Wensheng Gan*, Jiayang Wu, Kaixia Hu, Hong Lin. Data scarcity in recommendation systems: A survey[J]. ACM Transitions on Recommender Systems. ACM, 2024: 1-32. (Just Accepted, ACM Trans) [[acticle's link]](https://doi.org/10.1145/3639063)
 
 ## 本科阶段：
 
