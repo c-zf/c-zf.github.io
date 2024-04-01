@@ -13,7 +13,7 @@ redirect_from:
 
 [1] **Zefeng Chen**, Jiayang Wu, Wensheng Gan*, Zhenlian Qi. Metaverse security and privacy: An overview[C]. IEEE International Conference on Big Data. IEEE, 2022: 2950-2959. (CCF-C) [[acticle's link]](https://doi.org/10.1109/BigData55660.2022.10021112)
 
-[2] Riyan Yang, Lin Li, Wensheng Gan*, **Zefeng Chen**, Zhenlian Qi. The human-centric Metaverse: A survey[C]. Companion Proceedings of the Web Conference. ACM, 1296–1306. [[acticle's link]](https://doi.org/10.1145/3543873.3587593)
+[2] Riyan Yang, Lin Li, Wensheng Gan*, **Zefeng Chen**, Zhenlian Qi. The human-centric Metaverse: A survey[C]. Companion Proceedings of the Web Conference. ACM, 1296–1306. (CCF-A workshop) [[acticle's link]](https://doi.org/10.1145/3543873.3587593)
 
 [3] **Zefeng Chen**, Wensheng Gan*, Gengsen Huang, Yanxin Zheng, Philip S. Yu. Towards contiguous sequences in uncertain data[C]. IEEE International Conference on Data Science and Advanced Analytics. IEEE, 2023: 1-10. (CCF-C) [[acticle's link]](https://doi.org/10.1109/DSAA60987.2023.10302526)
 
@@ -21,15 +21,17 @@ redirect_from:
 
 [5] **Zefeng Chen**, Wensheng Gan*, Gengsen Huang, Yanxin Zheng, Philip S. Yu. Towards utility-driven contiguous sequential patterns in uncertain multi-sequences[J]. Knowledge-Based Systems. Elsevier, 2024, 284(6): 111314. (CCF-C, IF:8.8, JCR Q1) [[acticle's link]](https://doi.org/10.1016/j.knosys.2023.111314)
 
-[6] **Zefeng Chen**, Wensheng Gan*, Jiayang Wu, Hong Lin, Chien-Ming Chen. Metaverse for smart cities: A survey[J]. Internet of Things and Cyber-Physical Systems. Elsevier, 2024: 203-216. [[acticle's link]](https://doi.org/10.1016/j.iotcps.2023.12.002)
+[6] Yanxin Zheng, Wensheng Gan*, **Zefeng Chen**, Pinlyu Zhou, Xiangxiao Diao. Fast RFM analysis in sequence data[C]. The 29th International Conference on Parallel and Distributed Systems. IEEE, 2023, 503-510. (CCF-C) [[acticle's link]](https://doi.org/10.1109/ICPADS60453.2023.00081)
 
-[7] **Zefeng Chen**, Wensheng Gan*, Jiayang Wu, Kaixia Hu, Hong Lin. Data scarcity in recommendation systems: A survey[J]. ACM Transitions on Recommender Systems. ACM, 2024: 1-32. (Just Accepted, ACM Trans) [[acticle's link]](https://doi.org/10.1145/3639063)
+[7] **Zefeng Chen**, Wensheng Gan*, Jiayang Wu, Hong Lin, Chien-Ming Chen. Metaverse for smart cities: A survey[J]. Internet of Things and Cyber-Physical Systems. Elsevier, 2024: 203-216. [[acticle's link]](https://doi.org/10.1016/j.iotcps.2023.12.002)
+
+[8] **Zefeng Chen**, Wensheng Gan*, Jiayang Wu, Kaixia Hu, Hong Lin. Data scarcity in recommendation systems: A survey[J]. ACM Transitions on Recommender Systems. ACM, 2024: 1-32. (Just Accepted, ACM Trans) [[acticle's link]](https://doi.org/10.1145/3639063)
 
 ## 本科阶段：
 
-[1] Hongwei Yang, Yihong Xiao, Kaimin Zhang, **Zefeng Chen**, Jintao Pan, Linqing Zhuo, Yongchun Zhong, Huadan Zheng, Wenguo Zhu*, Jianhui Yu, Zhe Chen. Self-powered and high-performance all-fiber integrated photodetector based on graphene/palladium diselenide heterostructures[J]. Optica, Optics Express. 2021, 29(10), 15631-15640. [[acticle's link]](https://doi.org/10.1364/OE.425777)
+[1] Hongwei Yang, Yihong Xiao, Kaimin Zhang, **Zefeng Chen**, Jintao Pan, Linqing Zhuo, Yongchun Zhong, Huadan Zheng, Wenguo Zhu*, Jianhui Yu, Zhe Chen. Self-powered and high-performance all-fiber integrated photodetector based on graphene/palladium diselenide heterostructures[J]. Optica, Optics Express. 2021, 29(10), 15631-15640. (SCI) [[acticle's link]](https://doi.org/10.1364/OE.425777)
 
-[2] **Zefeng Chen**, Hongwei Yang, Yihong Xiao, Jintao Pan, Yu Xia, Wenguo Zhu*. Photonic spin Hall effect in twisted bilayer graphene[J]. Journal of the Optical Society of America A. Optica, 2021, 38(8): 1232-1236. (SCI, JCR Q3) [[acticle's link]](https://doi.org/10.1364/JOSAA.430598)
+[2] **Zefeng Chen**, Hongwei Yang, Yihong Xiao, Jintao Pan, Yu Xia, Wenguo Zhu*. Photonic spin Hall effect in twisted bilayer graphene[J]. Journal of the Optical Society of America A. Optica, 2021, 38(8): 1232-1236. (SCI) [[acticle's link]](https://doi.org/10.1364/JOSAA.430598)
 
 
 {% if site.author.googlescholar %}
