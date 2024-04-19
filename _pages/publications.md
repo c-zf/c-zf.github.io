@@ -27,6 +27,14 @@ redirect_from:
 
 [8] **Zefeng Chen**, Wensheng Gan*, Jiayang Wu, Kaixia Hu, Hong Lin. Data scarcity in recommendation systems: A survey[J]. ACM Transitions on Recommender Systems. ACM, 2024: 1-32. (Just Accepted, ACM Trans) [[article's link]](https://doi.org/10.1145/3639063)
 
+修稿/接收但未出版：
+
+[9] **Zefeng Chen**, Wensheng Gan*, Jiayi Sun, Jiayang Wu, Philip S. Yu. Open Metaverse: Issues, Evolution, and Future[C]. Companion Proceedings of the Web Conference. ACM, 2024. (Accepted)
+
+[10] **Zefeng Chen**, Wensheng Gan*, Gengsen Huang, Zhenlian Qi, Yan Li, Philip S. Yu. TALENT: Targeted mining of non-overlapping sequential patterns[J]. Transactions on Management Information Systems. ACM. (Major revise on Nov. 6, 2023, ACM Trans.)
+
+[11] **Zefeng Chen**, Wensheng Gan*. TALENT: Targeted mining of non-overlapping sequential patterns[J]. Transactions on Management Information Systems. Elsevier. (Major revise on Apr. 13, 2024, JCR Q1)
+
 ## 本科阶段：
 
 [1] Hongwei Yang, Yihong Xiao, Kaimin Zhang, **Zefeng Chen**, Jintao Pan, Linqing Zhuo, Yongchun Zhong, Huadan Zheng, Wenguo Zhu*, Jianhui Yu, Zhe Chen. Self-powered and high-performance all-fiber integrated photodetector based on graphene/palladium diselenide heterostructures[J]. Optica, Optics Express. 2021, 29(10), 15631-15640. (SCI) [[article's link]](https://doi.org/10.1364/OE.425777)
