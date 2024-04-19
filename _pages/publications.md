@@ -33,7 +33,7 @@ redirect_from:
 
 [10] **Zefeng Chen**, Wensheng Gan*, Gengsen Huang, Zhenlian Qi, Yan Li, Philip S. Yu. TALENT: Targeted mining of non-overlapping sequential patterns[J]. Transactions on Management Information Systems. ACM. (Major revise on Nov. 6, 2023, ACM Trans.)
 
-[11] **Zefeng Chen**, Wensheng Gan*. TALENT: Targeted mining of non-overlapping sequential patterns[J]. Transactions on Management Information Systems. Elsevier. (Major revise on Apr. 13, 2024, JCR Q1)
+[11] **Zefeng Chen**, Wensheng Gan*. Enhanced episode rule mining with non-overlapping frequency and targeted query[J]. Information Sciences. Elsevier. (Major revise on Apr. 13, 2024, JCR Q1)
 
 ## 本科阶段：
 
