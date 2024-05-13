@@ -27,9 +27,9 @@ redirect_from:
 
 [8] **Zefeng Chen**, Wensheng Gan*, Jiayang Wu, Kaixia Hu, Hong Lin. Data scarcity in recommendation systems: A survey[J]. ACM Transitions on Recommender Systems. ACM, 2024: 1-32. (Just Accepted, ACM Trans) [[article's link]](https://doi.org/10.1145/3639063)
 
-修稿/接收但未出版：
+[9] **Zefeng Chen**, Wensheng Gan*, Jiayi Sun, Jiayang Wu, Philip S. Yu. Open Metaverse: Issues, Evolution, and Future[C]. Companion Proceedings of the Web Conference. ACM, 2024, 1351–1360. (CCF-A, workshop) [[article's link]](https://doi.org/10.1145/3589335.3651898)
 
-[9] **Zefeng Chen**, Wensheng Gan*, Jiayi Sun, Jiayang Wu, Philip S. Yu. Open Metaverse: Issues, Evolution, and Future[C]. Companion Proceedings of the Web Conference. ACM, 2024. (Accepted)
+修稿中：
 
 [10] **Zefeng Chen**, Wensheng Gan*, Gengsen Huang, Zhenlian Qi, Yan Li, Philip S. Yu. TALENT: Targeted mining of non-overlapping sequential patterns[J]. Transactions on Management Information Systems. ACM. (Major revise on Nov. 6, 2023, ACM Trans.)
 
