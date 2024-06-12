@@ -29,11 +29,11 @@ redirect_from:
 
 [9] **Zefeng Chen**, Wensheng Gan*, Jiayi Sun, Jiayang Wu, Philip S. Yu. Open Metaverse: Issues, Evolution, and Future[C]. Companion Proceedings of the Web Conference. ACM, 2024, 1351–1360. (CCF-A, workshop) [[article's link]](https://doi.org/10.1145/3589335.3651898)
 
+[11] **Zefeng Chen**, Wensheng Gan*. Toward episode rules with non-overlapping frequency and targeted mining[J]. Information Sciences. Elsevier. (Accept on June 11, 2024, JCR Q1, CCF-B)
+
 修稿中：
 
-[10] **Zefeng Chen**, Wensheng Gan*, Gengsen Huang, Zhenlian Qi, Yan Li, Philip S. Yu. TALENT: Targeted mining of non-overlapping sequential patterns[J]. Transactions on Management Information Systems. ACM. (Major revise on Nov. 6, 2023, ACM Trans.)
-
-[11] **Zefeng Chen**, Wensheng Gan*. Toward episode rules with non-overlapping frequency and targeted mining[J]. Information Sciences. Elsevier. (Major revise on Apr. 13, 2024, JCR Q1)
+[11] **Zefeng Chen**, Wensheng Gan*, Gengsen Huang, Zhenlian Qi, Yan Li, Philip S. Yu. TALENT: Targeted mining of non-overlapping sequential patterns[J]. Transactions on Management Information Systems. ACM. (Major revision on Nov. 6, 2023, ACM Trans.)
 
 ## 本科阶段：
 
