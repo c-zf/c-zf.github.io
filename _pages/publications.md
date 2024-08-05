@@ -31,7 +31,7 @@ redirect_from:
 
 [10] **Zefeng Chen**, Wensheng Gan*. Toward episode rules with non-overlapping frequency and targeted mining[J]. Information Sciences. Elsevier, 2024: 121028. (JCR Q1, CCF-B) [[article's link]](https://doi.org/10.1016/j.ins.2024.121028)
 
-[11] Jian Zhu, Xiaoye Chen, Wensheng Gan, **Zefeng Chen**, Philip S. Yu. Targeted mining precise-positioning episode rules[J]. IEEE Transactions on Emerging Topics in Computational Intelligence. (Early Access, JCR Q1, IEEE Trans.) [[article's link]](https://ieeexplore.ieee.org/abstract/document/10595057)
+[11] Jian Zhu, Xiaoye Chen, Wensheng Gan*, **Zefeng Chen**, Philip S. Yu. Targeted mining precise-positioning episode rules[J]. IEEE Transactions on Emerging Topics in Computational Intelligence. (Early Access, JCR Q1, IEEE Trans.) [[article's link]](https://ieeexplore.ieee.org/abstract/document/10595057)
 
 修稿中：
 
