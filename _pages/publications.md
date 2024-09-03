@@ -31,11 +31,13 @@ redirect_from:
 
 [10] **Zefeng Chen**, Wensheng Gan*. Toward episode rules with non-overlapping frequency and targeted mining[J]. Information Sciences. Elsevier, 2024: 121028. (JCR Q1, CCF-B) [[article's link]](https://doi.org/10.1016/j.ins.2024.121028)
 
-[11] Jian Zhu, Xiaoye Chen, Wensheng Gan*, **Zefeng Chen**, Philip S. Yu. Targeted mining precise-positioning episode rules[J]. IEEE Transactions on Emerging Topics in Computational Intelligence. (Early Access, JCR Q1, IEEE Trans.) [[article's link]](https://ieeexplore.ieee.org/abstract/document/10595057)
+[11] Jian Zhu, Xiaoye Chen, Wensheng Gan*, **Zefeng Chen**, Philip S. Yu. Targeted mining precise-positioning episode rules[J]. IEEE Transactions on Emerging Topics in Computational Intelligence. IEEE, 2024. (Early Access, JCR Q1, IEEE Trans.) [[article's link]](https://ieeexplore.ieee.org/abstract/document/10595057)
+
+[12] Yanxin Zheng*, Wensheng Gan*, Zhenlian Qi, Qian Liang, **Zefeng Chen**, Philip S. Yu. Large language models for medicine: a survey[J]. International Journal of Machine Learning and Cybernetics. Springer, 2024. (Early Access, JCR Q2) [[article's link]](https://link.springer.com/article/10.1007/s13042-024-02318-w)
 
 修稿中：
 
-[12] **Zefeng Chen**, Wensheng Gan*, Gengsen Huang, Zhenlian Qi, Yan Li, Philip S. Yu. TALENT: Targeted mining of non-overlapping sequential patterns[J]. Transactions on Management Information Systems. ACM. (Major revision on Nov. 6, 2023, ACM Trans.)
+[13] **Zefeng Chen**, Wensheng Gan*, Gengsen Huang, Zhenlian Qi, Yan Li, Philip S. Yu. TALENT: Targeted mining of non-overlapping sequential patterns[J]. Transactions on Management Information Systems. ACM. (Major revision on Nov. 6, 2023, ACM Trans.)
 
 ## 本科阶段：
 
