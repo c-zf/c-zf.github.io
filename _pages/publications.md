@@ -28,6 +28,10 @@ https://doi.org/10.1007/s13042-024-02318-w
 
 [8] Jian Zhu, Xiaoye Chen, Wensheng Gan*, **Zefeng Chen**, Philip S. Yu. Targeted mining precise-positioning episode rules[J]. IEEE Transactions on Emerging Topics in Computational Intelligence. pp 1-14, IEEE, 2024. DOI: 10.1109/TETCI.2024.3424492 (IEEE Trans期刊, SCI, IF: 5.3, JCR Q2) 
 
+[9] Hongwei Yang, Yihong Xiao, Kaimin Zhang, **Zefeng Chen**, Jintao Pan, Linqing Zhuo, Yongchun Zhong, Huadan Zheng, Wenguo Zhu*, Jianhui Yu, Zhe Chen. Self-powered and high-performance all-fiber integrated photodetector based on graphene/palladium diselenide heterostructures[J]. Optica, Optics Express. 2021, 29(10), 15631-15640. (SCI)
+
+
+
 **会议论文：**
 
 [1] **Zefeng Chen**, Jiayang Wu, Wensheng Gan*, Zhenlian Qi. Metaverse security and privacy: An overview[C]. IEEE International Conference on Big Data. IEEE, 2022: 2950-2959. (EI, CCF推荐会议, 被引用127次) 
