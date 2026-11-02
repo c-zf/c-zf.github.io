@@ -35,4 +35,4 @@ redirect_from:
 
 **核心技术栈：**
 
-Python、Java、Spring Boot、SQL、ClickHouse、PostgreSQL、MySQL、Agent Skills、MCP、LLM、API Integration。
+Python、Java、Spring Boot、SQL、ClickHouse、PostgreSQL、MySQL、Agent Skills、MCP、LLM。
